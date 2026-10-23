@@ -30,9 +30,3 @@ https://www.youtube.com/watch?v=U9xdJXjd5FQ
 
 ### Language
 - **Primary Language:** Luau (Roblox's scripting language)
-
-
-## KEY TAKEAWAY
-**AI** was used as a supporting tool for research, debugging, and problem-solving,not to create the entire project. Development also involved my own knowledge, skills, independent research, and YouTube tutorials. As AI can make mistakes and produce incorrect results, human judgement and verification remain essential. I believe AI should assist developers rather than replace them, as human understanding, creativity, and responsibility are still necessary to ensure the final product works correctly.
-
-**Note:** Not every script used in the project has been included in this repository. Only scripts I considered meaningful, useful, or relevant to showcasing my development work have been published.
